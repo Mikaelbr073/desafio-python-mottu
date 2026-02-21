@@ -75,3 +75,4 @@ Você deve usar ou **PySpark ou Python puro** para estes *Jobs*
 Em caso de dúvidas, enviar email para: **douglas.bortolini@mottu.com.br**
 
 __Boa Sorte!__
+
