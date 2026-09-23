@@ -20,13 +20,13 @@ Este documento descreve a implementação, as fontes usadas como referência e c
 
 Rode os comandos a partir da raiz do projeto, nesta ordem:
 
-# Comando 1
+### Comando 1
 
 ```bash
 python src/build_dictionary.py
 ```
 
-# Comando 2
+### Comando 2
 
 ```bash
 python src/build_index.py
