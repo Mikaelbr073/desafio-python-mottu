@@ -18,12 +18,19 @@ Este documento descreve a implementação, as fontes usadas como referência e c
 
 ### Como executar
 
-Da raiz do projeto:
+Rode os comandos a partir da raiz do projeto, nesta ordem:
 
-\`\`\`bash
+# Comando 1
+
+```bash
 python src/build_dictionary.py
+```
+
+# Comando 2
+
+```bash
 python src/build_index.py
-\`\`\`
+```
 
 O primeiro comando gera `output/dictionary.txt`. O segundo lê esse dicionário, processa o dataset em blocos e gera `output/inverted_index.txt`.
 
